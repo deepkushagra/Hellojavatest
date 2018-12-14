@@ -3,6 +3,6 @@ import java.io.*;
 public class JavaTest {
 
 public static void main(String args[]){
-System.out.println("hello");
+System.out.println("hello there");
 }
 }
